@@ -3,9 +3,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-- 🎓 &nbsp;I'm currently studying Computer Science at Coker University.
-- ✉️ &nbsp;You can shoot me an email at lacie.covington@gmail.com! I'll try to respond as soon as I can.
-- 💬 &nbsp;You can also reach me at https://www.linkedin.com/in/lccovington/
+- 🎓 &nbsp;I'm currently studying Computer Science at Coker University
+- 💬 &nbsp;Ask me about anything. I'm happy to help
+- ✉️ &nbsp;You can shoot me an email at lacie.covington@gmail.com. I'll try to respond as soon as I can
+- ❤ &nbsp;You can also reach me at https://www.linkedin.com/in/lccovington/
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
