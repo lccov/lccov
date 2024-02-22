@@ -3,7 +3,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-- 🎓 &nbsp;I'm currently studying Computer Science at Coker University
+- :briefcase: &nbsp;I'm currently working as a Technical Associate at TIAA in Charlotte, NC
+- 🎓 &nbsp;I graduated from Coker University with a BA in Computer Science and a minor in Mathematics
 - 💬 &nbsp;Ask me about anything. I'm happy to help
 - ✉️ &nbsp;You can shoot me an email at lacie.covington@gmail.com. I'll try to respond as soon as I can
 - ❤ &nbsp;You can also reach me at https://www.linkedin.com/in/lccov/
