@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-- :briefcase: &nbsp;I'm currently working as a Technical Associate at TIAA in Charlotte, NC
+- :briefcase: &nbsp;I'm currently working as a Software Engineer at Monterey Technologies, Inc.
 - 🎓 &nbsp;I graduated from Coker University with a BA in Computer Science and a minor in Mathematics
 - 💬 &nbsp;Ask me about anything. I'm happy to help
 - ✉️ &nbsp;You can shoot me an email at lacie.covington@gmail.com. I'll try to respond as soon as I can
