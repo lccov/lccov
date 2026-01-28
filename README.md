@@ -6,8 +6,7 @@
 - :briefcase: &nbsp;I'm currently working as a Software Engineer at Monterey Technologies, Inc.
 - 🎓 &nbsp;I graduated from Coker University with a BA in Computer Science and a minor in Mathematics
 - 💬 &nbsp;Ask me about anything. I'm happy to help
-- ✉️ &nbsp;You can shoot me an email at lacie.covington@gmail.com. I'll try to respond as soon as I can
-- ❤ &nbsp;You can also reach me at https://www.linkedin.com/in/lccov/
+- ❤ &nbsp;You can reach me at https://www.linkedin.com/in/lccov/
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
